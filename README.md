@@ -1,6 +1,6 @@
 # PARQ
 #### AI-Powered parking spot detection based on CCTV footage
-
+sdf
 <img src="https://raw.githubusercontent.com/gstark0/Parq/master/images/logo.png" width="500">
 
 🇺🇸 English | 🇵🇱 <a href="https://github.com/gstark0/Parq/blob/master/README_PL.md">Click here to see Polish readme</a>
